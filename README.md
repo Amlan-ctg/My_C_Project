@@ -1,4 +1,4 @@
-# My_C_Project  
+# My_1st_C_Project  
 🔹 A simple C project to practice basic programming conditional concepts.  
 
 ---
